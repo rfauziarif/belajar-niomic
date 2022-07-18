@@ -1,0 +1,22 @@
+#paragrafpertama  {
+background-color: orange;
+font-size: 10px;
+
+}
+
+#paragrafkedua {
+background-color: blue;
+color: white;
+font-size: 15px;
+}
+
+#paragrafketiga  {
+font-family: sans;
+
+}
+
+#paragrafkeempat {
+background-color: gray;
+font-weight:bold;
+font-family:arial;
+}

@@ -1,0 +1,28 @@
+p {
+  padding-left: 15px;
+  height: 100px;
+  width: 300px;
+  background-color: aqua;
+}
+
+.satu {
+border-width: thick;
+border-style: dotted;
+border-color:red;
+overflow: scroll;
+}
+
+.dua  {
+border-style: solid;
+border-color: green;
+overflow: scroll;
+}
+
+.tiga {
+
+  border-style: double;
+  border-style: dashed;
+  border-color: blue;
+  border-width: 20px;
+  overflow: scroll;
+}

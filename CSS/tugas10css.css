@@ -1,0 +1,25 @@
+body {
+  width: 100%;
+  height: 100vh;
+background-image: linear-gradient(to bottom left, white, red);
+margin: 0 auto;
+z-index: 2;
+
+}
+.satu {
+margin: 0 auto ;
+width: 500px;
+height: 400px;
+background-image: radial-gradient(ellipse farthest-corner at bottom center, white 20% , blue);
+z-index: 1;
+
+}
+
+.dua {
+margin: 0 auto ;
+width: 500px;
+height: 200px;
+background-image: linear-gradient(to right, white, blue, white);
+z-index: 1;
+
+}

@@ -1,0 +1,26 @@
+
+header {
+text-transform: uppercase;
+background-color: black;
+}
+
+.menu {
+color: white;
+}
+.slider-div {
+margin-top: 5px;
+padding-top: 5px;
+padding-left: 70px;
+padding-right: 40px;
+display: inline-block;
+}
+
+
+p {
+text-align: justify;
+}
+footer {
+background-color: black;
+color: white;
+text-align: center;
+}

@@ -1,0 +1,14 @@
+#warna {
+color: red;
+}
+
+.warnahexa {
+color: #a7f432;
+}
+
+body {
+/* background-image: url('../img/rajaampat.jpg');
+background-repeat: space;
+background-position:left; */
+background: url('../img/rajaampat.jpg') repeat-y right;
+}
